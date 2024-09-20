@@ -1,4 +1,6 @@
 
+![Effortless Labs](https://github.com/effortlesslabs/docs/blob/main/images/hero.png)
+
 # Effortless Labs
 
 We grew up in a time when the lines between the digital and physical worlds began to blur, and technology became an extension of ourselves. Today, we stand at the cusp of a revolution where technology doesn’t just serve us. It empowers us to let go and truly live.
