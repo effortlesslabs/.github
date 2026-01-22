@@ -1,3 +1,4 @@
+![Effortless Labs — Interfaces for the autonomous age](https://github.com/effortlesslabs/docs/blob/main/images/effortlesslabs_hero.png?raw=true)
 
 
 [Effortless Labs](https://effortlesslabs.xyz/) is a design-driven research and engineering studio.
