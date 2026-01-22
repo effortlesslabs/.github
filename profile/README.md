@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/effortlesslabs/.github/main/assets/logo-dark.svg">
-  <img alt="effortless labs logo" src="https://raw.githubusercontent.com/effortlesslabs/.github/main/assets/logo-light.svg" width="auto" height="120">
-</picture>
+
 
 [Effortless Labs](https://effortlesslabs.xyz/) is a design-driven research and engineering studio.
 Our work is user-centric, systems-focused, and long-term.
