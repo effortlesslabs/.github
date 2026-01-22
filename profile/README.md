@@ -13,17 +13,17 @@ and production-grade infrastructure.
 
 Among other things, we are currently building:
 
-* **Hyperbola Network**: A decision-native data infrastructure for autonomous systems  
-  https://hyperbola.network
+[Hyperbola Network](https://hyperbola.network): A decision-native data infrastructure for autonomous systems  
 
-* **IGRIS**: An agent-driven, non-custodial execution engine for onchain operations  
-  https://igris.bot/
 
-* **Realm**: A personal knowledge and workflow system for saving, organizing, and recalling information effortlessly  
-  https://realmapp.io
+[Igris Bot](https://igris.bot): An agent-driven, non-custodial execution engine for onchain operations  
+  
 
-* **Locus Graph**: A context and memory graph system for structuring context, state, intent, and decision history  
-  https://locusgraph.com
+[Realm App](https://realmapp.io) A personal knowledge and workflow system for saving, organizing, and recalling information effortlessly  
+  
+
+[Locus Graph](https://locusgraph.com) A context and memory graph system for structuring context, state, intent, and decision history  
+  
 
 
 * **Design Systems**: Interface and UX primitives for AI-native and crypto-native products
