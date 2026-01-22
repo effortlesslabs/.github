@@ -1,28 +1,90 @@
-
-![Effortless Labs](https://github.com/effortlesslabs/docs/blob/main/images/hero.png)
-
 # Effortless Labs
 
-We grew up in a time when the lines between the digital and physical worlds began to blur, and technology became an extension of ourselves. Today, we stand at the cusp of a revolution where technology doesn’t just serve us. It empowers us to let go and truly live.
+Effortless Labs is a design-first engineering studio focused on building infrastructure and tools that eliminate unnecessary complexity from modern software.
 
-In a world overwhelmed by complexity, we are the vanguards of ease, the champions of clarity. Our mission is to create technology that feels like second nature, that you don’t have to wrestle with but can trust and let flow.
+We believe the next generation of products will not be *used* — they will *act*.  
+Our work sits at the intersection of **autonomy, data systems, design, and execution**.
 
-## Our Vision
+We take a deeply hands-on approach, working from first principles across:
+- System architecture & protocol design  
+- Agent-native data and execution layers  
+- Product, UX, and interface abstractions  
+- Performance, reliability, and real-world scale  
 
-Imagine a world where technology fades into the background, where your devices and apps work so seamlessly that you almost forget they’re there. That’s the world we’re building at Effortless Labs—a world where you can just lose control and let our technology guide you effortlessly through your day.
+This GitHub organization hosts our **open-source experiments, internal primitives, and production-grade systems** developed at Effortless Labs.
 
-## Our Principles
+---
 
-1. **Elegance in Simplicity**: We strip away the unnecessary, leaving only what’s essential. Our designs are intuitive, our interfaces clean, and our experiences fluid.
-2. **Human-Centric Approach**: Our users are at the heart of everything we do. We listen, learn, and create solutions that enhance lives without adding complexity.
-3. **Unwavering Trust**: Trust is our foundation. We are transparent in our actions and steadfast in our commitment to your privacy and security.
-4. **Purposeful Innovation**: Innovation isn’t just about new features but meaningful advancements. We innovate to solve real problems and to bring true value to your life.
-5. **Empowerment Through Ease**: Our technology empowers you to focus on what matters most, freeing you from the mundane and the complex.
+## What We’re Building
 
-## Our Promise
+### Hyperbola Network
+A decision-native data infrastructure designed for autonomous systems.
 
-Effortless Labs isn’t just a tech company; it’s a movement towards a simpler, more intuitive digital existence. We promise to push boundaries, to seek innovation that simplifies, and to ensure you can always trust our technology to be as effortless as it is powerful. When you choose to lose control, you’re not surrendering but gaining the freedom to focus on what truly matters.
+Hyperbola introduces intent-addressable data, real-time state resolution, and shared operational memory — enabling agents to reason and act on live systems without brittle integrations.
 
-**Effortless Labs**
+> Think: the missing data layer that makes autonomy possible.
 
-*Just Lose Control*
+---
+
+### IGRIS
+A non-custodial, agent-driven execution system for onchain operations.
+
+IGRIS translates natural language intent into optimal onchain execution — handling routing, latency, slippage, and cross-chain complexity automatically.
+
+> Execution without dashboards. Decisions without friction.
+
+---
+
+### Agent Primitives
+A growing set of internal and open-source building blocks for autonomous software:
+- Context & memory graphs
+- Intent parsing and normalization
+- Simulation and execution planners
+- Decision trace and audit layers
+
+These primitives are designed to be composable, inspectable, and production-safe.
+
+---
+
+### Design Systems for Complex Software
+We build and open-source UI and UX systems for AI-native and crypto-native products:
+- Agent-first interfaces
+- High-signal dashboards
+- Minimal, legible interaction models
+- Design systems that scale with system complexity
+
+---
+
+## Our Philosophy
+
+- **Complexity is a tax** — we aim to eliminate it at the system level  
+- **Design is infrastructure** — not decoration  
+- **Autonomy requires new primitives** — not wrappers on old APIs  
+- **Execution matters more than abstraction**
+
+If a system cannot be understood, it cannot be trusted.  
+If it cannot be trusted, it cannot be autonomous.
+
+---
+
+## Open Source at Effortless Labs
+
+This organization includes:
+- Research prototypes
+- Infrastructure components
+- Agent frameworks and tooling
+- Design systems and interface primitives
+- Production code used across Effortless Labs products
+
+Some projects are experimental. Others are battle-tested.  
+All of them are built to push the boundary of what “effortless” really means.
+
+---
+
+## Learn More
+
+- Website: https://effortlesslabs.xyz  
+- Research & writing: https://effortlesslabs.xyz/research  
+- Products: Hyperbola Network · IGRIS  
+
+We’re always interested in builders who care about **clarity, systems, and real execution**.
